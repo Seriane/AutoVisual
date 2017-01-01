@@ -1,3 +1,3 @@
-## Exercice demandé pour offre AutoVisual
-	BacEndProduit
+## Exercices demandés pour offre AutoVisual
+	BackEndProduit
 	Linux
